@@ -1,0 +1,2 @@
+D:\Informatica\Anul 2\LFC\Tema3\AFDHashTable\Debug\AFDHashTable.exe
+D:\Informatica\Anul 2\LFC\Tema3\AFDHashTable\Debug\AFDHashTable.pdb

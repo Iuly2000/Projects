@@ -1,0 +1,182 @@
+﻿<Window x:Class="CheckersMVVM.MVVM.View.GameBoardView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:CheckersMVVM.MVVM.ViewModel"       
+        xmlns:local="clr-namespace:CheckersMVVM"       
+        Height="665" Width="770" 
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Title="Checkers"
+        
+        Icon="pack://application:,,,/Images/GameIcon.jfif">
+
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis" />
+    </Window.Resources>
+    <Window.DataContext>
+        <viewModel:GameBoardVM/>
+    </Window.DataContext>
+
+    <Border Background="#FFAAA7A8">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" 
+                    Grid.Column="0" 
+                    BorderBrush="Black" 
+                    BorderThickness="2">
+                <TextBlock 
+                       Text="Checkers"
+                       FontSize="45"
+                       Foreground="FloralWhite"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center">
+                </TextBlock>
+            </Border>
+
+            <Border Grid.Column="1"
+                    Grid.Row="0"
+                    BorderBrush="Black" 
+                    BorderThickness="2">
+
+            </Border>
+            <Border Grid.Column="1"
+                    Grid.Row="0"
+                    BorderBrush="Black" 
+                    BorderThickness="2">
+                <Label  
+                    Name="player1Label" 
+                    Content="Player1"
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Center"               
+                    FontSize="35" 
+                    Margin="110,0,0,0" 
+                    Visibility="{Binding VisibilityInGame,Converter={StaticResource BoolToVis}}"
+                    Background="{Binding Player1}"
+                    Foreground="Red">
+                    <Label.Effect>
+                        <DropShadowEffect/>
+                    </Label.Effect>
+                </Label>
+            </Border>
+
+            <Label Grid.Column="1"
+                   Grid.Row="0"
+                   Name="player2Label" 
+                   Content="Player2" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="35" 
+                   Margin="140,0,0,0"
+                   Visibility="{Binding VisibilityInGame,Converter={StaticResource BoolToVis}}"
+                   Background="{Binding Player2}"
+                   Foreground="Black">
+                <Label.Effect>
+                    <DropShadowEffect/>
+                </Label.Effect>
+            </Label>
+
+            <Border Grid.Row="1" 
+                    Grid.Column="0" 
+                    BorderBrush="Black" 
+                    BorderThickness="2"
+                    Background="Black">
+                <StackPanel>
+
+                    <Button x:Name="newGame"
+                            Content="New Game"
+                            Height="50"
+                            Foreground="Aqua"
+                            FontSize="22"                            
+                            Style="{StaticResource MenuButtonTheme}"
+                            Command="{Binding NewGameCommand}"/>
+                    <Button x:Name="save"
+                            Content="Save"
+                            Height="50"
+                            Foreground="Aqua"
+                            FontSize="22"
+                            IsEnabled="{Binding VisibilityInGame}"
+                            Command="{Binding SaveGame}"
+                            Style="{StaticResource MenuButtonTheme}"/>
+
+                    <Button x:Name="loadGame"
+                            Content="Load Game"
+                            Height="50"
+                            Foreground="Aqua"
+                            FontSize="22"
+                            Command="{Binding LoadGame}"
+                            Style="{StaticResource MenuButtonTheme}"/>
+
+                    <Button x:Name="statistics"
+                            Content="Statistics"
+                            Height="50"
+                            Foreground="Aqua"
+                            FontSize="22"
+                            Command="{Binding Statistics}"
+                            Style="{StaticResource MenuButtonTheme}"/>
+
+                    <Button x:Name="about"
+                            Content="About"
+                            Height="50"
+                            Foreground="Aqua"
+                            FontSize="22"
+                            Command="{Binding About}"
+                            Style="{StaticResource MenuButtonTheme}"/>
+
+                    <Button x:Name="multipleJumps"
+                            Content="{Binding StringMultipleJumps}"
+                            Height="50"                            
+                            Foreground="Aqua"
+                            FontSize="22"
+                            IsHitTestVisible="False"
+                            Visibility="{Binding VisibilityInGame,Converter={StaticResource BoolToVis}}"
+                            Style="{StaticResource MenuButtonTheme}"/>
+
+                </StackPanel>
+            </Border>
+            <Border Grid.Row="1" 
+                    Grid.Column="1" 
+                    BorderBrush="Black" 
+                    BorderThickness="2">
+                <ItemsControl Name="grid" 
+                          Margin="10 10 0 0"                           
+                          ItemsSource="{Binding GameBoard}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <ItemsControl ItemsSource="{Binding}">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal" />
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border Width="66" Height="66" BorderThickness="2" BorderBrush="#000000">
+                                            <Button Command="{Binding ClickCommand}" CommandParameter="{Binding SimpleCell}"  Background="{Binding SimpleCell.BackGroundString }" IsHitTestVisible="{Binding SimpleCell.IsClickable}">
+                                                <Button.Content>
+                                                    <Image Source="{Binding SimpleCell.ImagePath,TargetNullValue={x:Null}}" Stretch="Fill" />
+                                                </Button.Content>
+                                            </Button>
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </Border>
+        </Grid>
+
+    </Border>
+</Window>

@@ -1,0 +1,13 @@
+//sum of x and y
+float Sum(float  x , float y)
+       {
+          return x+y; 
+       }
+
+int main()
+{ 
+ float x=15.1e+4==2,       @@@  @             y=48.2e-6;  
+ float z=Sum(x,y);                   
+ int w=z£;//offf
+ return 0;
+}

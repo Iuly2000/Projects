@@ -1,0 +1,8 @@
+﻿  AFD.cpp
+E:\Anul 2\LFC\Tema5\AFD-Minimization\AFD.cpp(27,49): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+E:\Anul 2\LFC\Tema5\AFD-Minimization\AFD.cpp(27,77): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+E:\Anul 2\LFC\Tema5\AFD-Minimization\AFD.cpp(281,33): warning C4018: '<': signed/unsigned mismatch
+E:\Anul 2\LFC\Tema5\AFD-Minimization\AFD.cpp(294,33): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  AFD-Minimization.vcxproj -> E:\Anul 2\LFC\Tema5\AFD-Minimization\Debug\AFD-Minimization.exe

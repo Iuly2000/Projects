@@ -1,0 +1,11 @@
+int
+float
+const
+void
+return
+for
+while
+if
+else
+new
+delete

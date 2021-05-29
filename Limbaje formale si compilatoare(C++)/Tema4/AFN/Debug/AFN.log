@@ -1,0 +1,9 @@
+﻿  AFN.cpp
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\AFN.cpp(134,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\AFN.cpp(143,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\AFN.cpp(160,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\AFN.cpp(183,43): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\AFN.cpp(222,30): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  AFN.vcxproj -> C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\Debug\AFN.exe

@@ -1,0 +1,4 @@
+D:\Informatica\Anul 2\LFC\Tema5\AFD-Minimization\Debug\AFD-Minimization.exe
+D:\Informatica\Anul 2\LFC\Tema5\AFD-Minimization\Debug\AFD-Minimization.pdb
+E:\Anul 2\LFC\Tema5\AFD-Minimization\Debug\AFD-Minimization.exe
+E:\Anul 2\LFC\Tema5\AFD-Minimization\Debug\AFD-Minimization.pdb

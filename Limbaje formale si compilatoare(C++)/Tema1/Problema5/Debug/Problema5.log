@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Anul 2\LFC\Tema1\Problema5\Source.cpp(7,28): warning C4018: '<': signed/unsigned mismatch
+E:\Anul 2\LFC\Tema1\Problema5\Source.cpp(25,28): warning C4018: '<': signed/unsigned mismatch
+  Problema5.vcxproj -> E:\Anul 2\LFC\Tema1\Problema5\Debug\Problema5.exe

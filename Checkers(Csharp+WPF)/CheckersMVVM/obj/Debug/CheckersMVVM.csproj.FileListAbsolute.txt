@@ -1,0 +1,46 @@
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\CheckersMVVM.exe.config
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\CheckersMVVM.exe
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\CheckersMVVM.pdb
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.csprojAssemblyReference.cache
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\App.g.cs
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM_MarkupCompile.cache
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM_MarkupCompile.lref
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.g.resources
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.Properties.Resources.resources
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.csproj.GenerateResource.cache
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.csproj.CoreCompileInputs.cache
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.exe
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM.pdb
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\App.baml
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\Theme\MenuButtonTheme.baml
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\CheckersMVVM_Content.g.cs
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\Images\GameIcon.jfif
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\MVVM\View\GameBoardView.g.cs
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\obj\Debug\MVVM\View\GameBoardView.baml
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\Resources\InitialState\InitialState.txt
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\Resources\Statistics\PlayersStatistics.txt
+E:\Anul 2\Semestrul 2\Medii Vizuale de Programare\CheckersMVVM\CheckersMVVM\bin\Debug\Resources\About\Info.txt
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\Images\GameIcon.jfif
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\Resources\About\Info.txt
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\Resources\InitialState\InitialState.txt
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\Resources\Statistics\PlayersStatistics.txt
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\CheckersMVVM.exe.config
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\CheckersMVVM.exe
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\bin\Debug\CheckersMVVM.pdb
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.csprojAssemblyReference.cache
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\MVVM\View\GameBoardView.g.cs
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\App.g.cs
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM_Content.g.cs
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM_MarkupCompile.cache
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM_MarkupCompile.lref
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\App.baml
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\MVVM\View\GameBoardView.baml
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.g.resources
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.Properties.Resources.resources
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.csproj.GenerateResource.cache
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.exe
+C:\Users\Iuly\Desktop\CheckersCopy\CheckersMVVM\obj\Debug\CheckersMVVM.pdb

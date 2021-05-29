@@ -1,0 +1,4 @@
+D:\Informatica\Anul 2\LFC\Tema4\AFN\Debug\AFN.exe
+D:\Informatica\Anul 2\LFC\Tema4\AFN\Debug\AFN.pdb
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\Debug\AFN.exe
+C:\Users\Iuly\Documents\GitHub\Projects\Limbaje formale si compilatoare(C++)\Tema4\AFN\Debug\AFN.pdb

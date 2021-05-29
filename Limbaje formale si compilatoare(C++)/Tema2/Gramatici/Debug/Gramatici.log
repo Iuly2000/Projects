@@ -1,0 +1,19 @@
+﻿  Gramathics.cpp
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(5,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(18,29): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(31,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(32,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(40,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(49,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(52,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(65,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(75,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(77,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(80,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(95,29): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(99,29): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(129,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(134,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(140,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Gramathics.cpp(152,29): warning C4018: '<': signed/unsigned mismatch
+  Gramatici.vcxproj -> D:\Informatica\Anul 2\LFC\Tema2\Gramatici\Debug\Gramatici.exe

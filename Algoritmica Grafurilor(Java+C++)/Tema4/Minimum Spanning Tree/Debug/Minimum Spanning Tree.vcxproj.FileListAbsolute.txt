@@ -1,0 +1,4 @@
+D:\Informatica\Anul 2\AG\Tema4\Minimum Spanning Tree\Debug\Minimum Spanning Tree.exe
+D:\Informatica\Anul 2\AG\Tema4\Minimum Spanning Tree\Debug\Minimum Spanning Tree.pdb
+E:\Anul 2\AG\Tema4\Minimum Spanning Tree\Debug\Minimum Spanning Tree.exe
+E:\Anul 2\AG\Tema4\Minimum Spanning Tree\Debug\Minimum Spanning Tree.pdb

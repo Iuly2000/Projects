@@ -1,0 +1,5 @@
+﻿  problema2.cpp
+D:\Informatica\SD\Tema3\Problema2\Problema2\problema2.cpp(39,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\SD\Tema3\Problema2\Problema2\problema2.cpp(55,31): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\SD\Tema3\Problema2\Problema2\problema2.cpp(80,33): warning C4018: '<': signed/unsigned mismatch
+  Problema2.vcxproj -> D:\Informatica\SD\Tema3\Problema2\Debug\Problema2.exe

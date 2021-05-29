@@ -1,0 +1,4 @@
+﻿  AFD.cpp
+D:\Informatica\Anul 2\LFC\Tema3\AFDHashTable\AFD.cpp(27,52): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\Informatica\Anul 2\LFC\Tema3\AFDHashTable\AFD.cpp(27,80): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+  AFDHashTable.vcxproj -> D:\Informatica\Anul 2\LFC\Tema3\AFDHashTable\Debug\AFDHashTable.exe

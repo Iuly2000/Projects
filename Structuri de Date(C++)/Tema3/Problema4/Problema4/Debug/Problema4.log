@@ -1,0 +1,4 @@
+﻿  Problema4.cpp
+D:\Informatica\SD\Tema3\Problema4\Problema4\Problema4.cpp(22,28): warning C4018: '<': signed/unsigned mismatch
+D:\Informatica\SD\Tema3\Problema4\Problema4\Problema4.cpp(104,6): warning C4101: 'nr_noduri': unreferenced local variable
+  Problema4.vcxproj -> D:\Informatica\SD\Tema3\Problema4\Debug\Problema4.exe
